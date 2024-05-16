@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alhanullah Sajib</h1>
 <h3 align="center">I want to be a best developer. I love to learn new skills. My hobbies are Photgraphy, Learning about websites, gaining new skills.</h3>
-<h3>In 2020 I passed SSC with 5.00 GPA and in 2022 I passed HSC with 4.21 GPA. At the present i am pursuing my Bechelors degree in CSE at the BUBT(Bangladesh University of Business And Technology)</h3>
+<h3>In 2020 I passed SSC and in 2022 I passed HSC. At the present i am pursuing my Bechelors degree in CSE at the BUBT(Bangladesh University of Business And Technology)</h3>
 
 - 🌱 I’m currently learning **c++ and Full-stack web with Anisul Isalm**
 
